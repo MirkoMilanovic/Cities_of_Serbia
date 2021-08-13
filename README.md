@@ -1,3 +1,3 @@
 # Cities of Serbia
 
-This is a program for making an interactive map for showing locations of Serbian cities.
+This is a program for creating an interactive map for showing locations of Serbian cities.
